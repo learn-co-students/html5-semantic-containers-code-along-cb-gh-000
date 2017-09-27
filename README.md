@@ -108,6 +108,7 @@ Next we can surround our image and media content with `<figure>` element and ins
       <figcaption>345 Carl Street Apt 12, Carrol Rd. Brooklyn, NY - photo by Denise Richards</figcaption>
     </figure>
   </section>
+  http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/real-estate.mp4
 ```
 
 On line 2 we included our `<figure>` element which wraps our image and sets it out as something that is usually a picture, illustration, diagram, code snippet, or schema that is referenced in the main text of the page. Inside it on line 4, we included a `<figcaption>` element calling out the text as a caption for the figure it is held within.
