@@ -25,7 +25,7 @@ cd exceptional-realty
 * Code along with the provided video below and/or its supplementary reading
   located below the video. Code everything you see there. Feel free to stop,
   pause, rewind or fast forward through the content to keep pace.
-
+let's code with together
 <iframe width="640" height="480" src="//www.youtube.com/embed/xrDw6I4MSBk?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Semantic Elements
