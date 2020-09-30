@@ -1,10 +1,10 @@
-# HTML5 Semantic Containers Code-along
+# HTML5 Semantic Containers Code
 
 ## Objectives
 
-1. Surround existing content with HTML5 Semantic Elements
+-> Surround existing content with HTML5 Semantic Elements
 
-## Introduction
+ 1. Introduction
 
 Building upon previous code alongs, in this exercise you will add HTML5
 Semantic Elements by coding along with the video provided, reviewing the
@@ -17,7 +17,7 @@ git clone https://github.com/<your_username_here>/exceptional-realty
 cd exceptional-realty
 ```
 
-## Instructions
+2. Instructions
 
 * Fork this repository on Github.
 * Use Terminal to clone your forked copy.
@@ -28,7 +28,7 @@ cd exceptional-realty
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/xrDw6I4MSBk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### Semantic Elements
+A. Semantic Elements
 
 To get started create a feature branch in Terminal by typing `git checkout -b html5-layout`
 and press return. Then open the index.html file in your code editor.
