@@ -101,7 +101,7 @@ surrounding the promotion video like so,
 #### Footer
 
 At the bottom of the page before the closing `</body>` tag lets create a
-`<footer>` element and insert some copyright information.
+`<footer>`<a> element and insert some copyright information.</a>
 
 ```html
 ...
