@@ -171,3 +171,8 @@ return, then `git merge html5-layout` and press return. Then
 `git push origin master` and press return.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html5-semantic-containers-code-along' title='HTML5 Semantic Containers Code-along'>HTML5 Semantic Containers Code-along</a> on Learn.co and start learning to code for free.</p>
+
+                                Thanks for reading :)
+
+
+
