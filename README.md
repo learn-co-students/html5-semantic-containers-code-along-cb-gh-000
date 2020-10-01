@@ -104,7 +104,7 @@ At the bottom of the page before the closing `</body>` tag lets create a
 `<footer>` element and insert some copyright information.
 
 ```html
-...
+ <body>
   <footer>
     &copy; 2014 Exceptional Realty Group. All Rights Reserved.
   </footer>
