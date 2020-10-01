@@ -1,4 +1,4 @@
-# HTML5 Semantic Containers Code-along
+# HTML5 Semantic Containers code-along
 
 ## Objectives
 
