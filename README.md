@@ -3,6 +3,7 @@
 ## Objectives
 
 1. Surround existing content with HTML5 Semantic Elements
+2. A semantic element clearly describes its meaning to both the browser and the developer.
 
 ## Introduction
 
