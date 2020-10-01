@@ -1,4 +1,4 @@
-# HTML5 Semantic Containers Code-along
+# HTML5 Semantic Containers (Tags) Code-along
 
 ## Objectives
 
@@ -149,6 +149,12 @@ Now add another surrounding our video player.
     </figure>
   </section>
 ```
+#### Article
+The <article> element can be used to define the article content on your website:
+  <article>
+  <h1>Fun Fact</h1>
+  <p>Fun fact: most of the fun facts on the Internet are not actually fun.</p>
+</article>
 
 Don't forget to indent the content such as the video and image that are nested
 inside of our `<figure>` elements. Then you can save this file and give it a
