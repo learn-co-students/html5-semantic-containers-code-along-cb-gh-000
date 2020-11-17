@@ -74,7 +74,7 @@ Next we will section off our page by adding a `<section>` element wrapping our
 
 ```html
   <section id="featured-property">
-    <img src="images/intro-pic.jpg" alt="A beautiful living room." title="Welcome to Exceptional Realty Group">
+    <img src="images/intro-pic.jpg" alt="A beautiful living room." title="Welcome to Exceptional Reality Group">
     <p>Lorem ipsum dolor sit amet...</p>
     <p>Lorem ipsum dolor sit amet...</p>
   </section>
